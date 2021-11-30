@@ -1,1 +1,1 @@
-# insuranceSimulatorAPI
+# Typescript template
